@@ -5,11 +5,11 @@ def speak_to_grandma("phrase")
   elsif "pharse" == "I LOVE YOU GRANDMA!"
   else
     return "HUH?! SPEAK UP, SONNY!"
-    
-    
-    
+
+
+
   end
-  
+
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
